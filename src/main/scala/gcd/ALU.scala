@@ -1,2 +1,0 @@
-package gcd.lab4
-
